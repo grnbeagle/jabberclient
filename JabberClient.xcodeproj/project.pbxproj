@@ -161,6 +161,7 @@
 		A3D4085A18CD3F6E00D9E74B /* ChatViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A3D4085818CD3F6E00D9E74B /* ChatViewController.m */; };
 		A3D4085B18CD3F6E00D9E74B /* ChatViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A3D4085918CD3F6E00D9E74B /* ChatViewController.xib */; };
 		A3D4085F18D0481700D9E74B /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = A3D4085E18D0481700D9E74B /* .gitignore */; };
+		A3D4086118D04A3400D9E74B /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = A3D4086018D04A3400D9E74B /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -474,6 +475,7 @@
 		A3D4085C18CD46EC00D9E74B /* ChatDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ChatDelegate.h; sourceTree = "<group>"; };
 		A3D4085D18CD473D00D9E74B /* MessageDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MessageDelegate.h; sourceTree = "<group>"; };
 		A3D4085E18D0481700D9E74B /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		A3D4086018D04A3400D9E74B /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -511,6 +513,7 @@
 		A3D4063618CD228600D9E74B = {
 			isa = PBXGroup;
 			children = (
+				A3D4086018D04A3400D9E74B /* README.md */,
 				A3D4085E18D0481700D9E74B /* .gitignore */,
 				A3D4083118CD2A6A00D9E74B /* Authentication */,
 				A3D4067118CD245E00D9E74B /* Categories */,
@@ -1463,6 +1466,7 @@
 				A3D4085B18CD3F6E00D9E74B /* ChatViewController.xib in Resources */,
 				A3D4085618CD305500D9E74B /* LoginViewController.xib in Resources */,
 				A3D4081918CD245E00D9E74B /* README.txt in Resources */,
+				A3D4086118D04A3400D9E74B /* README.md in Resources */,
 				A3D4065518CD228700D9E74B /* Images.xcassets in Resources */,
 				A3D4081E18CD245E00D9E74B /* build-libidn.sh in Resources */,
 			);
